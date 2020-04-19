@@ -1,0 +1,6 @@
+id=keyboard_android_swipe_installer
+name=Swipe support for Android keyboard installer
+version=10.0
+versionCode=1
+author=gnumdk
+description=Installs Android keyboard swipe support to /system/lib64

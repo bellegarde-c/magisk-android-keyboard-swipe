@@ -1,4 +1,4 @@
-# Swipe support for Android keyboard
+# Swipe support for Android 10 keyboard
 This is a Magisk module that installs swipe support to `/system/lib64`
 
 # Installation
